@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg1859" width="2e3" height="1e3" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <path id="path1839" d="m0 0h2e3v1e3h-2e3z" fill="#ffffff" stroke-width="2.5"/>
+ <path id="path1841" d="m0 300h2e3v200h-2e3zm0 300h2e3v200h-2e3z" fill="#e81b39" stroke-width="2.5"/>
+ <g id="s" transform="matrix(2.6286556,0,0,2.6286556,450,160.04057)" fill="#e81b39">
+  <g id="c">
+   <path id="t" transform="rotate(18,0,-40)" d="m0-40v40h20z"/>
+   <use id="use1844" transform="scale(-1,1)" xlink:href="#t"/>
+  </g>
+  <g id="d">
+   <use id="use1847" transform="rotate(72)" xlink:href="#c"/>
+   <use id="use1849" transform="rotate(216)" xlink:href="#c"/>
+  </g>
+  <use id="use1852" transform="rotate(72)" xlink:href="#d"/>
+ </g>
+ <use id="use1855" transform="translate(550)" xlink:href="#s"/>
+ <use id="use1857" transform="translate(1100)" xlink:href="#s"/>
+</svg>
