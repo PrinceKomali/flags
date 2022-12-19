@@ -1,3 +1,5 @@
+#!/bin/bash
+
 cmds=()
 cmds2=()
 n=0
@@ -37,12 +39,13 @@ export -f resize
 
 # Countries
 for i in $(curl https://restcountries.com/v3.1/all -s | jq '.[].cca2' -r | tr '[:upper:]' '[:lower:]'); do
-    [ "$i" != "aq" ] && [ "$i" != "mq" ] && get https://flagcdn.com/$i.svg $i
+    [ "$i" != "aq" ] && [ "$i" != "mq" ] && [ "$i" != "nu" ] && get https://flagcdn.com/$i.svg $i
 done
 
 # Flagcdn Fixes
-get https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_the_Territorial_Collectivity_of_Martinique.svg mq f
-get https://upload.wikimedia.org/wikipedia/commons/f/f8/True_South_Antarctic_Flag.svg aq f
+get https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_the_Territorial_Collectivity_of_Martinique.svg mq
+get https://upload.wikimedia.org/wikipedia/commons/f/f8/True_South_Antarctic_Flag.svg aq
+get https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Niue.svg nu
 
 
 # Australia
@@ -103,7 +106,7 @@ get https://upload.wikimedia.org/wikipedia/commons/0/08/Flag_of_Sint_Eustatius.s
 
 # Greece
 get https://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Cretan_State.svg gr-m
-    # https://en.wikipedia.org/wiki/ISO_3166-2:GR TODO: add these
+#     https://en.wikipedia.org/wiki/ISO_3166-2:GR TODO: add these
 
 #Argentina
 get https://upload.wikimedia.org/wikipedia/commons/f/f5/Bandera_de_la_Ciudad_de_Buenos_Aires.svg ar-c
