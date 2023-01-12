@@ -237,8 +237,13 @@ get https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Yap.svg fm-yap
 # Mauritius 
 get https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Port_Louis%2C_Mauritius.svg mu-pl
 
-# idk 
+# Historical Alpha-2 Codes 
 get https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_the_Soviet_Union.svg su
+get https://upload.wikimedia.org/wikipedia/commons/6/61/Flag_of_Yugoslavia_%281946-1992%29.svg yu
+get https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_Serbia_and_Montenegro_%281992%E2%80%932006%29.svg cs
+get https://upload.wikimedia.org/wikipedia/commons/a/a1/Flag_of_East_Germany.svg dd
+get https://upload.wikimedia.org/wikipedia/commons/d/db/Flag_of_South_Yemen.svg yd
+get https://upload.wikimedia.org/wikipedia/commons/e/eb/Flag_of_the_Netherlands_Antilles_%281959%E2%80%931986%29.svg an
 
 echo "${cmds[@]}" | parallel 
 echo

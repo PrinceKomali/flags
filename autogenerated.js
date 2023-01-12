@@ -5,6 +5,7 @@ ag
 ai
 al
 am
+an
 ao
 aq
 ar-a
@@ -95,12 +96,14 @@ cm
 cn
 co
 cr
+cs
 cu
 cv
 cw
 cx
 cy
 cz
+dd
 de
 dj
 dk
@@ -451,8 +454,10 @@ vu
 wf
 ws
 xk
+yd
 ye
 yt
+yu
 za
 zm
 zw`.split('\n');
