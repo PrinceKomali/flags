@@ -360,6 +360,7 @@ so
 sr
 ss
 st
+su
 sv
 sx
 sy

@@ -237,6 +237,9 @@ get https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Yap.svg fm-yap
 # Mauritius 
 get https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Port_Louis%2C_Mauritius.svg mu-pl
 
+# idk 
+get https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_the_Soviet_Union.svg su
+
 echo "${cmds[@]}" | parallel 
 echo
 echo "${cmds2[@]}" | parallel
