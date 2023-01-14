@@ -4,7 +4,7 @@ if (!url) {
     console.log("Need $1")
     process.exit();
 }
-
+url = 'https://en.wikipedia.org/wiki/ISO_3166-2:' + url.toUpperCase(); 
 
 let exec = require("util").promisify(require("child_process").exec)
 async function get(u) {

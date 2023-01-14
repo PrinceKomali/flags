@@ -103,6 +103,35 @@ get https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_La_Massana.svg a
 get https://upload.wikimedia.org/wikipedia/commons/5/5e/Flag_of_Ordino.svg ad-05
 get https://upload.wikimedia.org/wikipedia/commons/0/02/Bandera_de_San_Juli%C3%A1n_de_Loria.svg ad-06
 
+# Brazil
+get https://upload.wikimedia.org/wikipedia/commons/4/4c/Bandeira_do_Acre.svg br-ac
+get https://upload.wikimedia.org/wikipedia/commons/8/88/Bandeira_de_Alagoas.svg br-al
+get https://upload.wikimedia.org/wikipedia/commons/0/0c/Bandeira_do_Amap%C3%A1.svg br-ap
+get https://upload.wikimedia.org/wikipedia/commons/6/6b/Bandeira_do_Amazonas.svg br-am
+get https://upload.wikimedia.org/wikipedia/commons/2/28/Bandeira_da_Bahia.svg br-ba
+get https://upload.wikimedia.org/wikipedia/commons/2/2e/Bandeira_do_Cear%C3%A1.svg br-ce
+get https://upload.wikimedia.org/wikipedia/commons/3/3c/Bandeira_do_Distrito_Federal_%28Brasil%29.svg br-df
+get https://upload.wikimedia.org/wikipedia/commons/4/43/Bandeira_do_Esp%C3%ADrito_Santo.svg br-es
+get https://upload.wikimedia.org/wikipedia/commons/b/be/Flag_of_Goi%C3%A1s.svg br-go
+get https://upload.wikimedia.org/wikipedia/commons/4/45/Bandeira_do_Maranh%C3%A3o.svg br-ma
+get https://upload.wikimedia.org/wikipedia/commons/0/0b/Bandeira_de_Mato_Grosso.svg br-mt
+get https://upload.wikimedia.org/wikipedia/commons/6/64/Bandeira_de_Mato_Grosso_do_Sul.svg br-ms
+get https://upload.wikimedia.org/wikipedia/commons/f/f4/Bandeira_de_Minas_Gerais.svg br-mg
+get https://upload.wikimedia.org/wikipedia/commons/0/02/Bandeira_do_Par%C3%A1.svg br-pa
+get https://upload.wikimedia.org/wikipedia/commons/b/bb/Bandeira_da_Para%C3%ADba.svg br-pb
+get https://upload.wikimedia.org/wikipedia/commons/9/93/Bandeira_do_Paran%C3%A1.svg br-pr
+get https://upload.wikimedia.org/wikipedia/commons/5/59/Bandeira_de_Pernambuco.svg br-pe
+get https://upload.wikimedia.org/wikipedia/commons/3/33/Bandeira_do_Piau%C3%AD.svg br-pi
+get https://upload.wikimedia.org/wikipedia/commons/7/73/Bandeira_do_estado_do_Rio_de_Janeiro.svg br-rj
+get https://upload.wikimedia.org/wikipedia/commons/3/30/Bandeira_do_Rio_Grande_do_Norte.svg br-rn
+get https://upload.wikimedia.org/wikipedia/commons/6/63/Bandeira_do_Rio_Grande_do_Sul.svg br-rs
+get https://upload.wikimedia.org/wikipedia/commons/f/fa/Bandeira_de_Rond%C3%B4nia.svg br-ro
+get https://upload.wikimedia.org/wikipedia/commons/9/98/Bandeira_de_Roraima.svg br-rr
+get https://upload.wikimedia.org/wikipedia/commons/1/1a/Bandeira_de_Santa_Catarina.svg br-sc
+get https://upload.wikimedia.org/wikipedia/commons/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg br-sp
+get https://upload.wikimedia.org/wikipedia/commons/b/be/Bandeira_de_Sergipe.svg br-se
+get https://upload.wikimedia.org/wikipedia/commons/f/ff/Bandeira_do_Tocantins.svg br-to
+
 # Canada
 get https://upload.wikimedia.org/wikipedia/commons/f/f5/Flag_of_Alberta.svg ca-ab
 get https://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_British_Columbia.svg ca-bc
@@ -123,11 +152,66 @@ get https://upload.wikimedia.org/wikipedia/commons/3/33/Flag_of_Grande_Comore.sv
 get https://upload.wikimedia.org/wikipedia/commons/a/a6/Flag_of_Anjouan_%28official%29.svg km-a
 get https://upload.wikimedia.org/wikipedia/commons/c/c2/Flag_of_Moh%C3%A9li_%28official%29.svg km-m
 
+# Czech Republic
+get https://upload.wikimedia.org/wikipedia/commons/f/f7/Flag_of_South_Bohemian_Region.svg cz-31
+get https://upload.wikimedia.org/wikipedia/commons/d/d7/Flag_of_South_Moravian_Region.svg cz-64
+get https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_Karlovy_Vary_Region.svg cz-41
+get https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Hradec_Kralove_Region.svg cz-52
+get https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Liberec_Region.svg cz-51
+get https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Moravian-Silesian_Region.svg cz-80
+get https://upload.wikimedia.org/wikipedia/commons/6/66/Flag_of_Olomouc_Region.svg cz-71
+get https://upload.wikimedia.org/wikipedia/commons/c/c7/Flag_of_Pardubice_Region.svg cz-53
+get https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Plzen_Region.svg cz-32
+get https://upload.wikimedia.org/wikipedia/commons/d/d2/Flag_of_Prague.svg cz-10
+get https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Central_Bohemian_Region.svg cz-20
+get https://upload.wikimedia.org/wikipedia/commons/1/13/Flag_of_Usti_nad_Labem_Region.svg cz-42
+get https://upload.wikimedia.org/wikipedia/commons/1/14/Flag_of_Vysocina_Region.svg cz-63
+get https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Zlin_Region.svg cz-72
+
 # Federated States of Micronesia
 get https://upload.wikimedia.org/wikipedia/commons/5/55/Flag_of_Chuuk.svg fm-trk
 get https://upload.wikimedia.org/wikipedia/commons/2/23/Flag_of_Kosrae.svg fm-ksa
 get https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Pohnpei.svg fm-pni
 get https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Yap.svg fm-yap
+
+# Finland 
+get https://upload.wikimedia.org/wikipedia/commons/5/52/Flag_of_%C3%85land.svg fi-01
+get https://upload.wikimedia.org/wikipedia/commons/9/91/Etel%C3%A4-Karjala.vaakuna.svg fi-02
+get https://upload.wikimedia.org/wikipedia/commons/3/30/Flag_of_Southern_Ostrobothnia.svg fi-03
+get https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_South_Savonia.svg fi-04
+get https://upload.wikimedia.org/wikipedia/commons/5/5d/Flag_of_Kainuu.svg fi-05
+get https://upload.wikimedia.org/wikipedia/commons/b/bd/Flag_of_Tavastia_Proper.svg fi-06
+get https://upload.wikimedia.org/wikipedia/commons/6/64/Keski-Pohjanmaa.lippu.svg fi-07
+get https://upload.wikimedia.org/wikipedia/commons/9/9a/Keski-suomi_lippu.svg fi-08
+get https://upload.wikimedia.org/wikipedia/commons/7/70/Kymenlaakson_maakunnan_vaakuna.svg fi-09
+get https://upload.wikimedia.org/wikipedia/commons/c/c8/Lapin_maakunnan_vaakuna.svg fi-10
+get https://upload.wikimedia.org/wikipedia/commons/c/c3/Pirkanmaa.vaakuna.svg fi-11
+get https://upload.wikimedia.org/wikipedia/commons/0/09/Pohjanmaan_maakunnan_vaakuna.svg fi-12
+get https://upload.wikimedia.org/wikipedia/commons/e/e0/North_karelia_flag.svg fi-13
+get https://upload.wikimedia.org/wikipedia/commons/b/bd/Pohjois-Pohjanmaan_vaakuna.svg fi-14
+get https://upload.wikimedia.org/wikipedia/commons/8/85/Flag_of_Northern_Savonia.svg fi-15
+get https://upload.wikimedia.org/wikipedia/commons/1/18/P%C3%A4ij%C3%A4t-H%C3%A4me.lippu.svg fi-16
+get https://upload.wikimedia.org/wikipedia/commons/7/78/Satakunta-flag.svg fi-17
+get https://upload.wikimedia.org/wikipedia/commons/c/c8/Flag_of_Uusimaa.svg fi-18
+get https://upload.wikimedia.org/wikipedia/commons/3/37/Etel%C3%A4-Suomen_l%C3%A4%C3%A4nin_vaakuna.svg fi-es
+get https://upload.wikimedia.org/wikipedia/commons/4/4d/It%C3%A4-Suomen_l%C3%A4%C3%A4nin_vaakuna.svg fi-is
+get https://upload.wikimedia.org/wikipedia/commons/c/c8/Lapin_maakunnan_vaakuna.svg fi-ll
+get https://upload.wikimedia.org/wikipedia/commons/5/5e/L%C3%A4nsi-Suomen_l%C3%A4%C3%A4nin_vaakuna.svg fi-ls
+
+# France
+get https://upload.wikimedia.org/wikipedia/commons/8/85/Flag_of_the_region_Auvergne-Rh%C3%B4ne-Alpes.svg fr-ara
+get https://upload.wikimedia.org/wikipedia/commons/2/28/Flag_of_the_region_Bourgogne-Franche-Comt%C3%A9.svg fr-bfc
+get https://upload.wikimedia.org/wikipedia/commons/2/29/Flag_of_Brittany_%28Gwenn_ha_du%29.svg fr-bre
+get https://upload.wikimedia.org/wikipedia/commons/d/d5/Flag_of_Centre-Val_de_Loire.svg fr-cvl
+get https://upload.wikimedia.org/wikipedia/commons/7/7c/Flag_of_Corsica.svg fr-20r
+get https://upload.wikimedia.org/wikipedia/commons/7/79/Logo_R%C3%A9gion_Grand_Est_-_2016.svg fr-ges
+get https://upload.wikimedia.org/wikipedia/commons/c/c9/Flag_of_the_Region_of_Hauts-de-France.svg fr-hdf
+get https://upload.wikimedia.org/wikipedia/commons/c/c0/BlasonIledeFranceUnofficiel.svg fr-idf
+get https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Normandie.svg fr-nor
+get https://upload.wikimedia.org/wikipedia/commons/b/b6/Flag_of_Nouvelle-Aquitaine.svg fr-naq
+get https://upload.wikimedia.org/wikipedia/commons/1/1d/Flag_of_R%C3%A9gion_Occitanie_%28symbol_only%29.svg fr-occ
+get https://upload.wikimedia.org/wikipedia/commons/6/65/Unofficial_flag_of_Pays-de-la-Loire.svg fr-pdl
+get https://upload.wikimedia.org/wikipedia/commons/9/94/Flag_of_Provence-Alpes-C%C3%B4te_d%27Azur.svg fr-pac
 
 # Greece
 get https://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Cretan_State.svg gr-m
@@ -172,6 +256,22 @@ get https://upload.wikimedia.org/wikipedia/commons/5/54/Flag_of_Zeeland.svg nl-z
 
 get https://upload.wikimedia.org/wikipedia/commons/5/5a/Flag_of_Saba.svg bq-sa
 get https://upload.wikimedia.org/wikipedia/commons/0/08/Flag_of_Sint_Eustatius.svg bq-se 
+
+# New Zealand 
+get https://upload.wikimedia.org/wikipedia/commons/0/09/Nelson_flag.svg nz-nsn
+get https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Otago.svg nz-ota
+get https://upload.wikimedia.org/wikipedia/en/6/64/TaranakiRegionalCouncil-logo.svg nz-tki
+
+# Norway
+get https://upload.wikimedia.org/wikipedia/commons/2/25/Agder_v%C3%A5pen.svg no-42
+get https://upload.wikimedia.org/wikipedia/commons/2/2c/Innlandet_v%C3%A5pen.svg no-34
+get https://upload.wikimedia.org/wikipedia/commons/0/08/Flag_of_M%C3%B8re_og_Romsdal.svg no-15
+get https://upload.wikimedia.org/wikipedia/commons/7/75/Flag_of_Nordland.svg no-18
+get https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Oslo.svg no-03
+get https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_Rogaland.svg no-11
+get https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_Vestfold_and_Telemark.svg no-38
+get https://upload.wikimedia.org/wikipedia/commons/c/cb/Vestland_v%C3%A5pen.svg no-46
+get https://upload.wikimedia.org/wikipedia/commons/0/09/Viken_v%C3%A5pen.svg no-30
 
 # Papua New Guinea
 get https://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_Bougainville.svg pg-nsb
@@ -281,6 +381,29 @@ get https://upload.wikimedia.org/wikipedia/commons/2/2a/Flag_of_North_Jeolla_Pro
 get https://upload.wikimedia.org/wikipedia/commons/5/58/Flag_of_South_Jeolla_Province.svg kr-46
 get https://upload.wikimedia.org/wikipedia/commons/3/35/Flag_of_Jeju.svg kr-49
 get https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Sejong_City%2C_South_Korea.svg kr-50
+
+# Spain 
+get https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_Andaluc%C3%ADa.svg es-an
+get https://upload.wikimedia.org/wikipedia/commons/e/e8/Bandera_de_Arag%C3%B3n.svg es-ar
+get https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_Asturias.svg es-as
+get https://upload.wikimedia.org/wikipedia/commons/8/8c/Flag_of_the_Canary_Islands_%28simple%29.svg es-cn
+get https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Cantabria_%28Official%29.svg es-cb
+get https://upload.wikimedia.org/wikipedia/commons/1/13/Flag_of_Castile_and_Le%C3%B3n.svg es-cl
+get https://upload.wikimedia.org/wikipedia/commons/d/d4/Bandera_Castilla-La_Mancha.svg es-cm
+get https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Catalonia.svg es-ct
+get https://upload.wikimedia.org/wikipedia/commons/f/fd/Flag_Ceuta.svg es-ce
+get https://upload.wikimedia.org/wikipedia/commons/1/13/Flag_of_Extremadura%2C_Spain_%28with_coat_of_arms%29.svg es-ex
+get https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Galicia.svg es-ga
+get https://upload.wikimedia.org/wikipedia/commons/7/7b/Flag_of_the_Balearic_Islands.svg es-ib
+get https://upload.wikimedia.org/wikipedia/commons/d/db/Flag_of_La_Rioja_%28with_coat_of_arms%29.svg es-ri
+get https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_the_Community_of_Madrid.svg es-md
+get https://upload.wikimedia.org/wikipedia/commons/f/f7/Flag_of_Melilla.svg es-ml
+get https://upload.wikimedia.org/wikipedia/commons/a/a5/Flag_of_the_Region_of_Murcia.svg es-mc
+get https://upload.wikimedia.org/wikipedia/commons/3/36/Bandera_de_Navarra.svg es-nc
+get https://upload.wikimedia.org/wikipedia/commons/2/2d/Flag_of_the_Basque_Country.svg es-pv
+get https://upload.wikimedia.org/wikipedia/commons/d/df/Flag_of_the_Land_of_Valencia_%28official%29.svg es-vc
+
+# Sweden 
 
 # United Arab Emirates
 get https://upload.wikimedia.org/wikipedia/commons/7/7c/Flag_of_Ajman.svg ae-aj
