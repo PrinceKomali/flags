@@ -403,7 +403,35 @@ get https://upload.wikimedia.org/wikipedia/commons/3/36/Bandera_de_Navarra.svg e
 get https://upload.wikimedia.org/wikipedia/commons/2/2d/Flag_of_the_Basque_Country.svg es-pv
 get https://upload.wikimedia.org/wikipedia/commons/d/df/Flag_of_the_Land_of_Valencia_%28official%29.svg es-vc
 
-# Sweden 
+# Sweden
+
+# Switzerland
+get https://upload.wikimedia.org/wikipedia/commons/b/b5/Wappen_Aargau_matt.svg ch-ag
+get https://upload.wikimedia.org/wikipedia/commons/b/b7/Wappen_Appenzell_Innerrhoden_matt.svg ch-ai
+get https://upload.wikimedia.org/wikipedia/commons/2/2c/Wappen_Appenzell_Ausserrhoden_matt.svg ch-ar
+get https://upload.wikimedia.org/wikipedia/commons/4/47/Wappen_Bern_matt.svg ch-be
+get https://upload.wikimedia.org/wikipedia/commons/8/8e/Coat_of_arms_of_Kanton_Basel-Landschaft.svg cg-bl
+get https://upload.wikimedia.org/wikipedia/commons/7/7d/Wappen_Basel-Stadt_matt.svg ch-bs
+get https://upload.wikimedia.org/wikipedia/commons/0/01/Wappen_Freiburg_matt.svg ch-fr
+get https://upload.wikimedia.org/wikipedia/commons/9/9d/Wappen_Genf_matt.svg ch-ge
+get https://upload.wikimedia.org/wikipedia/commons/0/0e/Wappen_Glarus_matt.svg ch-gl
+get https://upload.wikimedia.org/wikipedia/commons/8/84/Wappen_Graub%C3%BCnden.svg ch-gr
+get https://upload.wikimedia.org/wikipedia/commons/f/f0/Wappen_Jura_matt.svg ch-ju
+get https://upload.wikimedia.org/wikipedia/commons/6/66/Wappen_Luzern_matt.svg ch-lu
+get https://upload.wikimedia.org/wikipedia/commons/d/d1/Wappen_Neuenburg_matt.svg ch-ne
+get https://upload.wikimedia.org/wikipedia/commons/b/bd/Wappen_Nidwalden_matt.svg ch-nw
+get https://upload.wikimedia.org/wikipedia/commons/1/1a/Wappen_Obwalden_matt.svg ch-ow
+get https://upload.wikimedia.org/wikipedia/commons/c/c5/Coat_of_arms_of_canton_of_St._Gallen.svg ch-sg
+get https://upload.wikimedia.org/wikipedia/commons/b/b6/Wappen_Schaffhausen_matt.svg ch-sh
+get https://upload.wikimedia.org/wikipedia/commons/b/b7/Wappen_Solothurn_matt.svg ch-so
+get https://upload.wikimedia.org/wikipedia/commons/e/ee/Wappen_Schwyz_matt.svg ch-sz
+get https://upload.wikimedia.org/wikipedia/commons/7/71/Wappen_Thurgau_matt.svg ch-tg
+get https://upload.wikimedia.org/wikipedia/commons/8/87/Wappen_Tessin_matt.svg ch-ti
+get https://upload.wikimedia.org/wikipedia/commons/1/10/Wappen_Uri_matt.svg ch-ur
+get https://upload.wikimedia.org/wikipedia/commons/1/1d/Wappen_Waadt_matt.svg ch-vd
+get https://upload.wikimedia.org/wikipedia/commons/a/a3/Wappen_Wallis_matt.svg ch-vs
+get https://upload.wikimedia.org/wikipedia/commons/5/5a/Wappen_Z%C3%BCrich_matt.svg ch-zh
+get https://upload.wikimedia.org/wikipedia/commons/3/31/Wappen_Zug_matt.svg ch-zg
 
 # United Arab Emirates
 get https://upload.wikimedia.org/wikipedia/commons/7/7c/Flag_of_Ajman.svg ae-aj
