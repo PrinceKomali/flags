@@ -453,9 +453,10 @@ get https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Tristan_da_Cunha
 get https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Ascension_Island.svg sh-ac
 
 # United States
-for i in "ri" "ga" "nd" "la" "ak" "wa" "nm" "ma" "ut" "ms" "tx" "wv" "nj" "hi" "pa" "sd" "tn" "de" "mo" "fl" "ct" "md" "wy" "ne" "or" "id" "ky" "co" "mn" "ia" "me" "mi" "ks" "az" "sc" "nv" "oh" "va" "in" "ok" "il" "mt" "nh" "ar" "wi" "al" "vt" "nc" "ny" "ca"; do
+for i in "ri" "ga" "nd" "la" "ak" "wa" "nm" "ma" "ut" "ms" "tx" "wv" "nj" "hi" "pa" "sd" "tn" "de" "mo" "fl" "ct" "md" "wy" "ne" "or" "id" "ky" "co" "ia" "me" "mi" "ks" "az" "sc" "nv" "oh" "va" "in" "ok" "il" "mt" "nh" "ar" "wi" "al" "vt" "nc" "ny" "ca"; do
     get "https://flagcdn.com/us-$i.svg" us-$i
 done
+get "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Minnesota.svg" us-mn
 
 get https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_the_District_of_Columbia.svg us-dc
 get https://upload.wikimedia.org/wikipedia/commons/2/2a/Flag_of_the_Midway_Islands_%28local%29.svg um-71
